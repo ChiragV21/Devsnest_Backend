@@ -5,7 +5,6 @@ class data {
     myfun2() {
         return "This is a Reactjs";
     }
-
 }
 
 module.exports = data;
